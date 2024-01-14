@@ -1,0 +1,5 @@
+C:\Users\coenw\source\repos\CWAssess2Car\CWAssess2Car\obj\Debug\CWAssess2Car.csproj.AssemblyReference.cache
+C:\Users\coenw\source\repos\CWAssess2Car\CWAssess2Car\obj\Debug\CWAssess2Car.csproj.SuggestedBindingRedirects.cache
+C:\Users\coenw\source\repos\CWAssess2Car\CWAssess2Car\obj\Debug\MainWindow.g.cs
+C:\Users\coenw\source\repos\CWAssess2Car\CWAssess2Car\obj\Debug\CWAssess2Car_MarkupCompile.cache
+C:\Users\coenw\source\repos\CWAssess2Car\CWAssess2Car\obj\Debug\CWAssess2Car_MarkupCompile.lref

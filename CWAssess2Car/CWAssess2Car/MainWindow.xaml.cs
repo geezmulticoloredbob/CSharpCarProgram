@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace CWAssess2Car
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        CarListings listings = new CarListings(20);
+        public MainWindow()
+        {
+            InitializeComponent();            
+            {
+
+            }
+        }
+        // Returns all the Cars in the carsOnLot array.
+        private void Search_Click(object sender, RoutedEventArgs e)
+        {
+            foreach (Car car in listings.GetCars())
+            {
+                ListOfCars.Items.Add(car);
+            }
+            
+        }
+
+        private void Add_Click(object sender, RoutedEventArgs e)
+        {
+
+
+        }
+    }
+    
+}
