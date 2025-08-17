@@ -1,4 +1,4 @@
-CSharpCarProgram 🚘
+C# Car Program 🚘
 
 A simple C# and XAML GUI application that displays cars available on a lot.
 Built as part of my NM TAFE coursework, this project demonstrates the fundamentals of object-oriented programming in C# combined with a WPF (Windows Presentation Foundation) interface.
