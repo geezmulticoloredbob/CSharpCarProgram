@@ -1,9 +1,9 @@
-C# Car Program 🚘
+# C# Car Program 🚘
 
 A simple C# and XAML GUI application that displays cars available on a lot.
 Built as part of my NM TAFE coursework, this project demonstrates the fundamentals of object-oriented programming in C# combined with a WPF (Windows Presentation Foundation) interface.
 
-Features ✨
+## Features ✨
 
 GUI built with XAML
 
@@ -15,7 +15,7 @@ CarListings to manage and display multiple cars
 
 Clear separation of UI (MainWindow.xaml) and business logic (MainWindow.xaml.cs)
 
-Tech Stack 🛠️
+## Tech Stack 🛠️
 
 C#
 
@@ -23,14 +23,14 @@ XAML (WPF)
 
 .NET Framework / .NET Desktop Runtime
 
-Getting Started ⚙️
+## Getting Started ⚙️
 Prerequisites
 
 Visual Studio with the .NET Desktop Development workload
 
 .NET Framework (4.7.2 or higher recommended)
 
-Running the App
+## Running the App
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ Open the solution file CWAssess2Car.sln in Visual Studio
 
 Build and run the project (F5)
 
-Project Structure 📂
+## Project Structure 📂
 CWAssess2Car/
 │
 ├── Car.cs                # Defines the Car class
@@ -53,7 +53,7 @@ CWAssess2Car/
 ├── CWAssess2Car.csproj   # Project file
 └── CWAssess2Car.sln      # Solution file
 
-Future Enhancements 🚀
+## Future Enhancements 🚀
 
 Add ability to add/remove cars via the GUI
 
